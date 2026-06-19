@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+scikit-learn
+tensorflow
+opencv-python
+Pillow
+matplotlib
+seaborn
+PyWavelets
+tqdm
+
