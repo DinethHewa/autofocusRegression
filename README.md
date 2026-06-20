@@ -45,7 +45,7 @@ run evaluation, ROI ablation, baseline comparison, and paper packaging
 
 Large generated files are intentionally excluded from this GitHub package. That includes trained models, cached tensors, raw image data, large prediction CSVs, paper packages, and experiment-output archives.
 
-Use Zenodo or another data repository for:
+Use Zenodo or another data repository for: https://doi.org/10.5281/zenodo.20766723
 
 ```text
 *.keras
